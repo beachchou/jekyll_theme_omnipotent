@@ -4,7 +4,7 @@ layout: themes/minimal/post
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](/).
+[Link to another page]({{ "/" | relative_url }}).
 
 There should be whitespace between paragraphs.
 
